@@ -12,7 +12,7 @@
     "@google-cloud/vision": "^1.11.0",
     "ali-oss": "^6.0.1",
     "axios": "^0.19.2",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "co": "^4.6.0",
     "cors": "^2.8.5",
