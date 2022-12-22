@@ -18,7 +18,7 @@
     "cors": "^2.8.5",
     "express": "^4.16.4",
     "gmail-send": "latest",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.3.14",
     "nexmo": "^2.6.0",
     "nodemailer": "^4.7.0",
